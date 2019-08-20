@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### CS 6476: Computer Vision
 
-#### [Lesson 1](notes/cs6476/Lesson_01.html)
+#### [Lesson 1: Intro](notes/cs6476/Lesson_01.html)
 
-#### [Lesson 2](notes/cs6476/Lesson_02.html)
+#### [Lesson 2: Images as Functions](notes/cs6476/Lesson_02.html)
+
+#### [Lesson 3: Filtering](notes/cs6476/Lesson_03.html)
