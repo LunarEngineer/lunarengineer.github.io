@@ -495,6 +495,17 @@ outim = cv2.GaussianBlur(img,kernel_shape,sigma)
 # This example specifies a blur that is longer on the y axis.
 # outim = cv2.GaussianBlur(img,kernel_shape,sigma,2*sigma)
 
+# If you instead want to manually create the kernel...
+# One way is to use cv2&#39;s getGaussianKernel(len,sigma) function to generate
+#  a one dimensional gaussian, then multiply it by its transpose to create a 2D
+#  structure.
+filter_kernel = cv2.getGaussianKernel(hsize, sigma)
+filter_kernel = filter_kernel * filter_kernel.T
+
+# Applying this kernel as a filter is pretty easy, just use OpenCV&#39;s apply filter function. The arguments are image, ddepth (-1 matches original image), and kernel
+# Read https://docs.opencv.org/2.4/modules/imgproc/doc/filtering.html#filter2d for more information
+
+smoothed = cv2.filter2D(img,-1,filter_kernel)
 
 # So, how do we recreate the surface plot of matlab in matplotlib?
 #  Although we are not creating a separate structure for the filter it&#39;s still a useful plot
@@ -504,17 +515,29 @@ from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 import numpy as np
 
-fig = plt.figure()
-ax = fig.gca(projection=&#39;3d&#39;)
+def surf(img:np.ndarray):
+  &quot;&quot;&quot;
+  This function takes as arguments
+  img: An image file (2D) loaded in via OpenCV into Numpy arrays
+  
+  It displays a surface plot of a 2D image
+  &quot;&quot;&quot;
+  assert len(img.shape) == 2, &quot;Image must be 2D&quot;
+  fig = plt.figure()
+  ax = fig.gca(projection=&#39;3d&#39;)
+  X = np.arange(0,img.shape[1])
+  Y = np.arange(0,img.shape[0])
+  X, Y = np.meshgrid(X, Y)
+  surf = ax.plot_surface(X,
+                         Y,
+                         img,
+                         cmap=cm.coolwarm,
+                         linewidth=0,
+                         antialiased=False)
+  fig.colorbar(surf, shrink=0.5, aspect=5)
+  plt.show()
 
-X = np.arange(0,im.shape[1])
-Y = np.arange(0,im.shape[0])
-X, Y = np.meshgrid(X, Y)
-surf = ax.plot_surface(X, Y, outim, cmap=cm.coolwarm, linewidth=0, antialiased=False)
-fig.colorbar(surf, shrink=0.5, aspect=5)
-plt.show()
-
-imshow(outim)</code></pre>
+surf(im)</code></pre>
 </div>
 <div id="quiz-gaussian-filter" class="section level2">
 <h2>Quiz: Gaussian Filter</h2>

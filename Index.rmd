@@ -13,8 +13,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### CS 6476: Computer Vision
 
+#### [Python Helper Functions] (notes/cs6475/cs6476helpers.py)
+
 #### [Lesson 1: Intro](notes/cs6476/Lesson_01.html)
 
 #### [Lesson 2: Images as Functions](notes/cs6476/Lesson_02.html)
 
 #### [Lesson 3: Filtering](notes/cs6476/Lesson_03.html)
+
+#### [Lesson 4: Linearity and Convolution](notes/cs6476/Lesson_04.html)
+
+#### [Lesson 5: Filters as Templates](notes/cs6476/Lesson_05.html)

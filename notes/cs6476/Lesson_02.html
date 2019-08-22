@@ -378,7 +378,8 @@ $(document).ready(function () {
 
 <div id="images-as-functions" class="section level1">
 <h1>Images as Functions</h1>
-<p>Helpful reading <a href="https://scipy-lectures.org/intro/numpy/operations.html" class="uri">https://scipy-lectures.org/intro/numpy/operations.html</a>.</p>
+<p>Helpful reading <a href="https://scipy-lectures.org/intro/numpy/operations.html" class="uri">https://scipy-lectures.org/intro/numpy/operations.html</a>. Helpful reading <a href="https://docs.opencv.org/3.1.0/dc/da5/tutorial_py_drawing_functions.html" class="uri">https://docs.opencv.org/3.1.0/dc/da5/tutorial_py_drawing_functions.html</a>.</p>
+<p>Please note that all Python work is accomplished in the CS6476 anaconda environment provided in the CS6476 course.</p>
 <div id="part-1" class="section level2">
 <h2>Part 1</h2>
 <p>Given a black and white image of a comedian, how can it be expressed as a function?</p>
@@ -467,14 +468,22 @@ print type(im)
 im
 # in an interpreter will *also* show the dtype which tells you the data type of the elements, such as &#39;uint8&#39; or &#39;float&#39;
 
-# To display the image OpenCV and Python don&#39;t have a really friendly one-liner. Trying to just type imshow will cause your python to crash.
-# but...
-def imshow(image,time=5000,title=&#39;image&#39;):
-  while True:
-    cv2.imshow(title,image)
-    cv2.waitKey(time)
-    cv2.destroyAllWindows()
-    break
+# To display the image OpenCV and Python don&#39;t have a really friendly one-liner. Trying to just type imshow will cause your python to crash. You need to append waitkey.
+
+# If you&#39;re operating in a command line environment you can define a small function to prevent your environment from siezing.
+
+def imshow(image,time:int=0,title:str=&#39;image&#39;):
+  &quot;&quot;&quot;
+  This function takes as arguments
+  image: An image file loaded in via OpenCV into Numpy arrays
+  time: An integer denoting the time the image should remain.
+    The default, 0, waits for the user to press a key.
+  title: A string setting the top menu bar name of the image.
+  &quot;&quot;&quot;
+  cv2.imshow(title,image)
+  cv2.waitKey(time)
+  cv2.destroyAllWindows()
+
 
 # To get information about the size of the image just call .shape.
 print(im.shape)
@@ -501,6 +510,12 @@ print(im[:,99])
 import matplotlib.pyplot as plt
 plt.plot(im[49])
 plt.show()
+
+# Alternatively cv2 comes with its own function to inspect lines.
+# the arguments are &#39;img&#39;, (start X, start Y), (end X, end Y), color=(R,G,B), and thickness
+# Here is a 5 px thick red line across line 50.
+imline = cv2.line(im,(0,49),(im.shape[1],49),(0,0,255),5)
+imshow(imline)
 
 # To get a *subset* of rows and columns...
 # Let&#39;s say from rows 101 to 103 and columns 201 to 203.
@@ -551,8 +566,18 @@ im//2</code></pre>
 <p>To get something that is <em>explicitly</em> uint8 we can specify</p>
 <pre class="python"><code>(im1 + im2).astype(&#39;uint8&#39;)</code></pre>
 <p>and if we wanted to create a blending function we can use that same idea</p>
-<pre class="python"><code>def blend(im1,im2,alpha=0.5):
-  return (alpha*im1 + (1-alpha)*im2).astype(&#39;uint8&#39;)</code></pre>
+<pre class="python"><code>import numpy as np
+def blend(im1:np.ndarray,im2:np.ndarray,a:float=0.5,type:str=&quot;float&quot;):
+  &quot;&quot;&quot;
+  This function takes as arguments
+  im1: An image file loaded in via OpenCV into Numpy arrays
+  im2: An image file loaded in via OpenCV into Numpy arrays
+  a: The alpha parameter denoting the weight of images in the blend.
+  type: A string denoting what the type of the output should be
+
+  return: (a*im1 + (1.-a)*im2).astype(type)
+  &quot;&quot;&quot;
+  return (a*im1 + (1.-a)*im2).astype(type)</code></pre>
 <p>Just be wary of integer limits and what happens when you attempt to cast 256 as an unsigned 8 bit integer! (Hint… integer overflow.)</p>
 </div>
 <div id="common-types-of-noise" class="section level2">
