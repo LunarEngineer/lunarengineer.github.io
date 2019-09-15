@@ -17,7 +17,7 @@ def imshow(image,time:int=0,title:str='image'):
 
   It displays an image for a user to see.
   """
-  cv2.imshow(title,image)
+  cv2.imshow(title,norm(image))
   cv2.waitKey(time)
   cv2.destroyAllWindows()
 
@@ -82,3 +82,97 @@ def noise(img:np.ndarray,type:str="salt and pepper",noise:int=100):
     # Where noise is 'noise-1' create pepper noise
     img = np.where(noisy==noisy-1, pepper, img)
   return(img)
+
+def norm(img:np.ndarray):
+  """
+  This is just a shorthand function to help when plotting float images
+  """
+  return cv2.normalize(img, None, 255,0, cv2.NORM_MINMAX, cv2.CV_8UC1)
+
+def LoG(size, sigma):
+  """
+  This filter function takes as inputs a filter size and sigma and
+  produces a laplacian of a gaussian function centered at zero.
+  size: The kernel size
+  sigma: The standard deviation of the Gaussian function
+
+  This returns a filter which is the Laplacian of a Gaussian kernel
+  This function was borrowed from the course notes.
+  """
+  # Set the range for x and y to be size units away from the center.
+  x = y = np.linspace(-size, size, 2*size+1)
+  # Create a 2D Numpy array from those arrays.
+  x, y = np.meshgrid(x, y)
+  # Laplacian creation
+  f = (x**2 + y**2)/(2*sigma**2)
+  k = -1./(np.pi * sigma**4) * (1 - f) * np.exp(-f)
+  return k
+
+def drawLines(img,lines):
+  """
+  Given lines from cv2 houghlines draws the lines.
+  """
+  lines = lines.reshape(-1,2)
+  for rho,theta in lines:
+    a = np.cos(theta)
+    b = np.sin(theta)
+    x0 = a*rho
+    y0 = b*rho
+    x1 = int(x0 + 1000*(-b))
+    y1 = int(y0 + 1000*(a))
+    x2 = int(x0 - 1000*(-b))
+    y2 = int(y0 - 1000*(a))
+    cv2.line(img,(x1,y1),(x2,y2),(0,0,255),2)
+  return(img)
+
+def intersection(l1,l2):
+  """
+  Finds the intersection of two lines.
+  See https://stackoverflow.com/a/383527/5087436
+  """
+  r1, t1 = line1
+  r2, t2 = line2
+  A = np.array([
+      [np.cos(t1), np.sin(t1)],
+      [np.cos(t2), np.sin(t2)]
+  ])
+  b = np.array([[rho1], [rho2]])
+  x0, y0 = np.linalg.solve(A, b)
+  x0, y0 = int(np.round(x0)), int(np.round(y0))
+  return np.array([x0, y0])
+
+def enhance(img_in,scale=24,ksize=11):
+  img_blurred = np.copy(img_in)
+  img_blurred = cv2.medianBlur(img_blurred,ksize)
+  img_blurred = cv2.GaussianBlur(img_blurred,(3,3),4)
+  sharp_kernel = (-1/9.)*np.array([[1,1,1],[1,-scale,1],[1,1,1]])
+  img_blurred = cv2.filter2D(img_blurred,-1,sharp_kernel)
+  return img_blurred
+
+def mask_img(img_in,shape="rectangle",center=(0,0),majorAxis=0,minorAxis=0):
+  """
+  Used to mask an image. For rectangles majoraxis is width and minor is height.
+  For circles majoraxis is radius.
+  center is an (x,y) coordinate as used by cv2.
+  """
+  img_out = np.copy(img_in)
+  center = [int(x) for x in center]
+  if shape == "rectangle":
+    maxX, minX = max(0,center[0] + majorAxis//2), max(0,center[0] - majorAxis//2)
+    maxY, minY = max(0,center[1] + minorAxis//2), max(0,center[1] - minorAxis//2)
+    img_out[minY:maxY,minX:maxX,:] = np.array([255,255,255])
+  return img_out
+
+def threshold(img,threshold=200):
+  img = np.copy(img)
+  blue = img[:,:,0]
+  blue[blue<threshold] = 0
+  blue[blue>threshold] = 255
+  green = img[:,:,1]
+  green[green<threshold] = 0
+  green[green>threshold] = 255
+  red = img[:,:,2]
+  red[red<threshold] = 0
+  red[red>threshold] = 255
+  img_out = np.stack([blue,green,red],axis=2)
+  return(img_out)
