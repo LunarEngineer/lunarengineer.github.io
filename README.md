@@ -47,7 +47,7 @@ This environment is being spun up to support my planned experimentation explorin
 
 * Associates Degree in Foreign Studies (Kurdish), **Defense Language Institute, Foreign Language Center - 2003**
 * Bachelor's Degree in Aerospace Engineering, **University of Kansas - 2016**
-* Master's Degree in Computer Scince, **Georgia Institute of Technology - 2021**
+* Master's Degree in Computer Science, **Georgia Institute of Technology - 2021**
 
 ## Research Interests
 
