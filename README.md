@@ -2,22 +2,24 @@
 
 I am Timothy David Luna.
 
-I've learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects.
-I think that in another time I would likely be an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to *create*.
+Look, I started a [blog](https://lunarengineer.github.io/LunarEngineerBlog/)!
 
-Over the years I've worked with C, C++, C#, Matlab, R, Python, SAS, VBA, HTML/CSS, Javascript, and even in BASIC for some pico-satellite stuff.
+I've learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects.
+I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to *create*.
+
+Over the years I've worked with programming languages ranging from base C / Basic to C++ / Java, Python, front-end web stack, and a few more things.
 
 I'm 'conversationally fluent' with SQL, Pandas, Numpy, Ray, and have used PyTorch more than once to implement deep learning models; I have driven supervised, unsupervised, and reinforcement learning projects to successful completion.
 
-I have first-hand experience building the technical stack required for data science including usage of Terraform, Docker, Kubernetes and Helm; I have implemented deep learning projects in a containerized environment.
+I have first-hand experience building the technical stack required for data science including usage of Terraform, Docker, Kubernetes and Helm; I have implemented deep learning projects in a containerized environment at scale.
 
 ## Work Experience
 
 ### State Farm: Data Scientist (Late 2019 to Now)
 
-I lead technical development for a family of models across all steps of the modeling pipeline and am implementing an ML ops pipeline in an agile manner. From the time I started development on this model family I've reduced the model runtime complexity from exponential to logarithmic in input and have introduced test-driven development. I've implemented a metadata framework which allows for trivial model results comparison, opening the door for further optimization across time.
+I lead technical development for a family of models in a software stack and CI/CD pipeline which I implemented and maintain; I am implementing an ML ops pipeline in an agile manner. From the time I started development on this model family I've reduced the model runtime complexity from exponential to logarithmic in input and have introduced test-driven development.
 
-I also design and implement custom algorithms to solve problems and test hypotheses.
+I lead projects ranging from supervised modeling to reinforcement learningn to application development to infrastructure deployment in a cloud environment. I design and implement custom algorithms and solutions to solve business problems and test hypotheses.
 
 Working at State Farm I've gained valuable experience and knowledge into how to tie together different components of a business to solve problems effectively. This has given me greater understanding into how the modeling and business components of a large organization could be viewed as an *feedback driven automated system* to cost-effectively optimize business decisions.
 
@@ -45,9 +47,9 @@ This environment is being spun up to support my planned experimentation explorin
 
 ## Education
 
-* Associates Degree in Foreign Studies (Kurdish), **Defense Language Institute, Foreign Language Center - 2003**
-* Bachelor's Degree in Aerospace Engineering, **University of Kansas - 2016**
 * Master's Degree in Computer Science, **Georgia Institute of Technology - 2021**
+* Bachelor's Degree in Aerospace Engineering, **University of Kansas - 2016**
+* Associates Degree in Foreign Studies (Kurdish), **Defense Language Institute, Foreign Language Center - 2003**
 
 ## Research Interests
 
