@@ -4,6 +4,6 @@ title: "Clue 13"
 permalink: /clue/74SAGZLAYK
 ---
 
-# Test
+# Clue Thirteen
 
 Test tes

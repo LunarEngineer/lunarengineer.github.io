@@ -4,6 +4,6 @@ title: "Clue 8"
 permalink: /clue/LH1FGURIWV
 ---
 
-# Test
+# Clue Eight
 
 Test tes

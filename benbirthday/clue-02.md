@@ -4,6 +4,6 @@ title: "Clue 2"
 permalink: /clue/AKGQ3Z4K9R
 ---
 
-# Clue Card
+# Clue Two
 
 Add details

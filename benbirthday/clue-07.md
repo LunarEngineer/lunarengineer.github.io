@@ -4,6 +4,6 @@ title: "Clue 7"
 permalink: /clue/VU3TXUTZHX
 ---
 
-# Test
+# Clue Seven
 
 Test tes
