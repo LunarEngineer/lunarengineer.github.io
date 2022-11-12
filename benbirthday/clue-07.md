@@ -4,7 +4,7 @@ title: "Clue 7"
 permalink: /clue/VU3TXUTZHX
 ---
 
-# Clue Seven
+# Clue Seven: I
 
 I heard about San Francisco... could I have stopped it?
 

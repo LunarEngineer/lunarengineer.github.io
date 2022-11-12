@@ -4,7 +4,7 @@ title: "Clue 10"
 permalink: /clue/0TCSVD2453
 ---
 
-# Clue Ten
+# Clue Ten: H
 
 How did Mabel meet Waddles, the pig?
 

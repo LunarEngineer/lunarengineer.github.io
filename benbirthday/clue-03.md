@@ -4,7 +4,7 @@ title: "Clue 3"
 permalink: /clue/CPB9DOJ1G4
 ---
 
-# Clue Three
+# Clue Three: A
 
 Which Pines twin was friends with, and was eventually trapped by, The Adversary?
 

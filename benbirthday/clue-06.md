@@ -4,7 +4,7 @@ title: "Clue 6"
 permalink: /clue/8E0VXUXYB4
 ---
 
-# Clue Six
+# Clue Six: L
 
 I wasn't alone down here.
 

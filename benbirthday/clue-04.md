@@ -4,7 +4,7 @@ title: "Clue 4"
 permalink: /clue/N2BW6RZOOW
 ---
 
-# Clue Four
+# Clue Four: P
 
 I've been living down here for months now. I've managed to hide my secrets so the Adversary won't know what I'm doing, but it's come at a heavy price...
 

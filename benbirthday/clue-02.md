@@ -4,7 +4,7 @@ title: "Clue 2"
 permalink: /clue/AKGQ3Z4K9R
 ---
 
-# Clue Two
+# Clue Two: R
 
 At the end of every episode in Gravity Falls, there are encrypted (link to gravity falls wiki ref hidden messages) messages.
 

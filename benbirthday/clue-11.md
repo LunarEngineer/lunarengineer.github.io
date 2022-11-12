@@ -4,7 +4,7 @@ title: "Clue 11"
 permalink: /clue/52MFCTKMQO
 ---
 
-# Clue Eleven
+# Clue Eleven: O
 
 How did Stanford defeat the Adversary, the first time?
 

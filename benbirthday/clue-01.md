@@ -4,7 +4,7 @@ title: "Clue 1"
 permalink: /clue/J103T5WNY2
 ---
 
-# Clue One
+# Clue One: G
 
 Who was the overarching villain in Disney(c)s Gravity Falls show?
 
