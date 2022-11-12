@@ -6,4 +6,4 @@ permalink: /clue/0TCSVD2453
 
 # Clue Ten
 
-Test tes
+How did Mabel meet Waddles, the pig?

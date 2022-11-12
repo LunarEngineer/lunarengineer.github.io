@@ -6,4 +6,4 @@ permalink: /clue/1HYR4NJUUS
 
 # Clue Fifteen
 
-Test tes
+Sometimes, when I feel lost, I need to stop, turn around, and look at things from another angle. 

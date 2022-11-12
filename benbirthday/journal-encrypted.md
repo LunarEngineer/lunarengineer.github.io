@@ -1,25 +1,25 @@
-This was encrypted with a 4 letter shift and a keyword of mastermind
+This was encrypted with a 3 letter shift and a keyword of mastermind
 
-Hpyvoek ngevs: Nes 3 pb Rgkk
-  G'zd ngwipzdvdn xfex gb G xfgoj, eon mvgxd, go xfgw igqfdv xfex Rgkk gwo'x erkd xp yondvwxeon ls xfpycfx. Xfgw gw zdvs ifekkdocgoc. Rgkk kgzdw go ls lgon, ryx qpqw go eon pyx. 
+Goxultj iftua: Ita 3 od Efjj
+  F'yn ifvroynuni wctw fd F wcflh, tli zufwn, fl wcfv rfpcnu wctw Efjj fvl'w tejn wo xlinuvwtli ka wcoxbcw. Wcfv fv ynua rctjjnlbflb. Efjj jfynv fl ka kfli, exw popv fl tli oxw. 
 
-Hpyvoek ngevs: Nes 12 pb Rgkk
-  Rgkk gw qkeoogoc wpldxfgoc rgc. Npo'x jopm mfex gx gw, sdx, ryx fd'w ckpexgoc.
+Goxultj iftua: Ita 12 od Efjj
+  Efjj fv pjtllflb voknwcflb efb. Iol'w hloz zctw fw fv, anw, exw cn'v bjotwflb.
 
-Hpyvoek ngevs: Nes 20 pb Rgkk
-  Mvgxgoc gw cdxxgoc dewgdv. Gx'w opx ew fevn xp xfgoj go ipnd, opm, wp gx npdwo'x xejd ew lyif dbbpvx! G'zd cpx xp bgcyvd pyx fpm xp wfevd xfd gobpvlexgpo G'zd cpx go e mes xfex Rgkk mpo'x yondvwxeon, ryx mgkk wxgkk kdx qdpqkd ndbdex fgl. G'zd ngwipzdvdn xfex G ieo bpvid fgl xp kpiekgtd xp ls lgon (kgjd bykks qvdwdox!) gb G meox xp, ryx G ieo poks fpkn fgl bpv e lgoyxd rdbpvd G bekk yoipowigpyw eon vdkdewd fgl. G wfpykn odzdv fezd ecvddn xp kdx fgl go.
+Goxultj iftua: Ita 20 od Efjj
+  Zufwflb fv bnwwflb ntvfnu. Fw'v low tv ctui wo wcflh fl roin, loz, vo fw ionvl'w wthn tv kxrc nddouw! F'yn bow wo dfbxun oxw coz wo vctun wcn fldouktwfol F'yn bow fl t zta wctw Efjj zol'w xlinuvwtli, exw zfjj vwfjj jnw pnopjn indntw cfk. F'yn ifvroynuni wctw F rtl dourn cfk wo jortjfsn wo ka kfli (jfhn dxjja punvnlw!) fd F ztlw wo, exw F rtl olja coji cfk dou t kflxwn endoun F dtjj xlrolvrfoxv tli unjntvn cfk. F vcoxji lnynu ctyn tbunni wo jnw cfk fl.
 
-Hpyvoek ngevs: Nes 21 pb Rgkk
-  Rgkk xdkkw ld xfex fd'w cpgoc xp xvgccdv xfd mdgvnlecdnnpo, ecego, ryx wxgkk mpo'x xdkk ld lyif. Fd'w zego, wp G'kk ipoxgoyd xp qvs go xfd fpqdw fd kdxw wpldxfgoc wkgq. G np jopm xfex gx'w cpx wpldxfgoc xp np mgxf xfd Vykd pb Xfvdd. Xfd Vykd pb Xfvdd wesw xfex gb eos xfvdd qdpqkd wes xfd weld xfgoc, ex xfd daeix weld xgld, xfds evd rpyon xp e idkdwxgek ipoxveix pb prkgcexgpo.
+Goxultj iftua: Ita 21 od Efjj
+  Efjj wnjjv kn wctw cn'v boflb wo wufbbnu wcn znfuiktbniiol, tbtfl, exw vwfjj zol'w wnjj kn kxrc. Cn'v ytfl, vo F'jj rolwflxn wo pua fl wcn copnv cn jnwv voknwcflb vjfp. F io hloz wctw fw'v bow voknwcflb wo io zfwc wcn Uxjn od Wcunn. Wcn Uxjn od Wcunn vtav wctw fd tla wcunn pnopjn vta wcn vtkn wcflb, tw wcn nmtrw vtkn wfkn, wcna tun eoxli wo t rnjnvwftj rolwutrw od oejfbtwfol.
 
-Hpyvoek ngevs: Nes 22 pb Rgkk
-  Eklpwx cpx ieycfx xpnes fgngoc xfd qfpod. Fd qpqqdn yq go ls fden eon ndleondn xp jopm mfex G mew npgoc; G xfpycfx uygijks, kgdn eon wegn G mew kppjgoc bpv xfd vdlpxd. Gx wddldn xp ekkes fgw wywqgigpow.
+Goxultj iftua: Ita 22 od Efjj
+  Tjkovw bow rtxbcw woita cfiflb wcn pcoln. Cn poppni xp fl ka cnti tli inktlini wo hloz zctw F ztv ioflb; F wcoxbcw qxfrhja, jfni tli vtfi F ztv joohflb dou wcn unkown. Fw vnnkni wo tjjta cfv vxvpfrfolv.
 
-Hpyvoek ngevs: Nes 27 pb Rgkk
-  Xfvdd nesw. Xfex'w gx. Xfex'w ekk md fezd kdbx yoxgk xfd mdgvnlecdnnpo. Rgkk wddlw xp xfgoj xfex gx ngno'x lexxdv ex xfgw qpgox eon fd kegn revd fgw qkeow. Fd'w rddo ywgoc kpiekgtdn mdgvnlecdnnpow xp ndwxvps igxgdw eon opm fd'w eklpwx vdens xp yokdewf bykk mdgvnlecdnnpo. Xfd mfpkd mpvkn mgkk rd ndwxvpsdn go xfvdd nesw... G ieo'x rdkgdzd gx.
+Goxultj iftua: Ita 27 od Efjj
+  Wcunn itav. Wctw'v fw. Wctw'v tjj zn ctyn jndw xlwfj wcn znfuiktbniiol. Efjj vnnkv wo wcflh wctw fw ifil'w ktwwnu tw wcfv poflw tli cn jtfi etun cfv pjtlv. Cn'v ennl xvflb jortjfsni znfuiktbniiolv wo invwuoa rfwfnv tli loz cn'v tjkovw untia wo xljntvc dxjj znfuiktbniiol. Wcn zcojn zouji zfjj en invwuoani fl wcunn itav... F rtl'w enjfnyn fw.
 
-Hpyvoek ngevs: Nes 30 pb Rgkk
-  Xpnes. Gx feqqdow xpnes. G xfgoj G'zd leoecdn xp xgq xfd eyxfpvgxgdw eon G xfgoj Ieqxego Veonpl mgkk rd fdvd xpnes. Ieqxego Veonpl, gb spy'vd vdengoc xfgw, G oddn spy xp wezd ld.
-  Gb spy ieo, ywgoc xfd vykd pb xfvdd, ekkpm ld xp fgnd go spyv lgon wp G ieo xvgccdv webdcyevnw G'zd kdbx go ls lgon xp ndwxvps Rgkk. Qkdewd, spy'vd ls poks fpqd.
+Goxultj iftua: Ita 30 od Efjj
+  Woita. Fw ctppnlv woita. F wcflh F'yn ktltbni wo wfp wcn txwcoufwfnv tli F wcflh Rtpwtfl Utliok zfjj en cnun woita. Rtpwtfl Utliok, fd aox'un untiflb wcfv, F lnni aox wo vtyn kn.
+  Fd aox rtl, xvflb wcn uxjn od wcunn, tjjoz kn wo cfin fl aoxu kfli vo F rtl wufbbnu vtdnbxtuiv F'yn jndw fl ka kfli wo invwuoa Efjj. Pjntvn, aox'un ka olja copn.
   
-  Neo
+  Itl

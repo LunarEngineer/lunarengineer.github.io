@@ -19,5 +19,6 @@ Journal diary: Day 27 of Bill
 Journal diary: Day 30 of Bill
   Today. It happens today. I think I've managed to tip the authorities and I think Captain Random will be here today. Captain Random, if you're reading this, I need you to save me.
   If you can, using the rule of three, allow me to hide in your mind so I can trigger safeguards I've left in my mind to destroy Bill. Please, you're my only hope.
+
   
   Dan

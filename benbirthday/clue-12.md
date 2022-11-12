@@ -6,4 +6,4 @@ permalink: /clue/0FF8UYGVMD
 
 # Clue Twelve
 
-Test tes
+How many journals were used to record the secrets of Gravity Falls?

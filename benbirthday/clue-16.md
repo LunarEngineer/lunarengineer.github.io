@@ -6,4 +6,4 @@ permalink: /clue/BMONQ4MT55
 
 # Club Sixteen
 
-Test tes
+How did Dipper know which Wendy was the real Wendy when they fought the Shape Shifter

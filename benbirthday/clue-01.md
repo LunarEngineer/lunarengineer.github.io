@@ -10,5 +10,5 @@ Who was the overarching villain in Disney(c)s Gravity Falls show?
 
 Text Question 1: <your answer> to the dungeon keeper.
 
-Hpyvoek ngevs: Nes 3 pb Rgkk
-  G'zd ngwipzdvdn xfex gb G xfgoj, eon mvgxd, go xfgw igqfdv xfex Rgkk gwo'x erkd xp yondvwxeon ls xfpycfx. Xfgw gw zdvs ifekkdocgoc. Rgkk kgzdw go ls lgon, ryx qpqw go eon pyx. 
+Goxultj iftua: Ita 3 od Efjj
+  F'yn ifvroynuni wctw fd F wcflh, tli zufwn, fl wcfv rfpcnu wctw Efjj fvl'w tejn wo xlinuvwtli ka wcoxbcw. Wcfv fv ynua rctjjnlbflb. Efjj jfynv fl ka kfli, exw popv fl tli oxw. 
