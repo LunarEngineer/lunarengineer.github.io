@@ -2,7 +2,13 @@
 
 I am Timothy David Luna.
 
-Look, I started a [blog](https://lunarengineer.github.io/LunarEngineerBlog/)!
+Look, I started a [blog]()!
+
+
+
+| Blog  | Knowledge Base  |
+| ----  | --------------  |
+| [Github Blog](https://lunarengineer.github.io/LunarEngineerBlog/)  | [Organization Notion](https://horse-jingle-e70.notion.site/Lunar-Engineering-7167a19ecfce44acb9d48d7e083a503c) |
 
 I've learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects.
 I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to *create*.
