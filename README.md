@@ -6,24 +6,31 @@
 
 I am Timothy David Luna.
 
-I've learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects.
-I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to *create*.
+I’ve learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects. I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to create.\
 
-Over the years I've worked with programming languages ranging from base C / Basic to C++ / Java, Python, front-end web stack, and a few more things.
+I work in a cloud based environment and am comfortable adapting to novel environments with little effort.
 
-I'm 'conversationally fluent' with SQL, Pandas, Numpy, Ray, and have used PyTorch more than once to implement deep learning models; I have driven supervised, unsupervised, and reinforcement learning projects to successful completion.
+I have first-hand experience building the technical stack required for automated learning including usage of IaC products such as Terraform and containerization utilities and frameworks including Docker and Kubernetes.
 
-I have first-hand experience building the technical stack required for data science including usage of Terraform, Docker, Kubernetes and Helm; I have implemented deep learning projects in a containerized environment at scale.
+I’ve built my own computers, I run my own homelab, and I’m pretty comfortable working in a linux CLI environment.
+Over the years I’ve worked with programming languages ranging from base C / Basic to C++ / Java, Python, front-end web stack, and a few more things.
+I’m ‘conversationally fluent’ with the required tool stack to extract meaning from raw information beginning with fundamentals of computer science, a strong understanding of computer infrastructure, a robust backlog of experience in various software languages and environment, and daily work with the tools required to interact with, shape, and leverage structured and unstructured information to solve problems.
+
+I am a mentor and leader both at, and outside, of work.
 
 ## Work Experience
 
 ### State Farm: Data Scientist (Late 2019 to Now)
 
-I lead technical development for a family of models in a software stack and CI/CD pipeline which I implemented and maintain; I am implementing an ML ops pipeline in an agile manner. From the time I started development on this model family I've reduced the model runtime complexity from exponential to logarithmic in input and have introduced test-driven development.
+I lead and guide complex and intertwined work efforts across a portfolio of projects which include supervised, unsupervised, and reinforcement learning models, in support of various business processes in a highly dynamic environment. I also design and implement custom algorithms and solutions to test hypotheses and solve business problems.
 
-I lead projects ranging from supervised modeling to reinforcement learningn to application development to infrastructure deployment in a cloud environment. I design and implement custom algorithms and solutions to solve business problems and test hypotheses.
+As a technical innovator and problem solver I’ve implemented a software stack and CI/CD pipeline in support of the design and implementation of an ML Ops pipeline to automate current and future business problem solutions.
 
-Working at State Farm I've gained valuable experience and knowledge into how to tie together different components of a business to solve problems effectively. This has given me greater understanding into how the modeling and business components of a large organization could be viewed as an *feedback driven automated system* to cost-effectively optimize business decisions.
+As a technical leader and mentor I emphasize and have implemented a framework and mindset of test-driven development in support both typical software solutions and model development activities.
+
+As a technical expert I’ve engineered custom solutions to solve problems and improve existing processes; my technical development for a particular family of deterministic models reduced the model data complexity at runtime from exponential to logarithmic in input.
+
+Working at State Farm I’ve gained valuable experience and knowledge into how to tie together different components of a business to solve problems effectively. This has given me greater understanding into how the modeling and business components of a large organization could be viewed as an feedback driven automated system to cost-effectively optimize business decisions
 
 ### Army Futures Command: The Research and Analysis Center (Late 2016 to Late 2019)
 
