@@ -2,6 +2,8 @@
 
 CEO and Chief Data Shepherd of [Lunar Engineering](https://lunarengineering.notion.site/Lunar-Engineering-7167a19ecfce44acb9d48d7e083a503c?pvs=4)
 
+[Check out my server!](https://lunarengineering.notion.site/1079256c78c34c82a2f6866bb290fe80?v=87559e48804c4ebf96d6b90189b4f0bb&pvs=4)
+
 I am Timothy David Luna.
 
 I’ve learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects. I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to create.
