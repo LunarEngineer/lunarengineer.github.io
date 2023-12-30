@@ -1,12 +1,10 @@
 # The Lunar Engineer
 
-| Blog  | Knowledge Base  |
-| ----  | --------------  |
-| [Github Blog](https://lunarengineer.github.io/LunarEngineerBlog/)  | [Organization Notion](https://horse-jingle-e70.notion.site/Lunar-Engineering-7167a19ecfce44acb9d48d7e083a503c) |
+CEO and Chief Data Shepherd of [Lunar Engineering](https://lunarengineering.notion.site/Lunar-Engineering-7167a19ecfce44acb9d48d7e083a503c?pvs=4)
 
 I am Timothy David Luna.
 
-I’ve learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects. I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to create.\
+I’ve learned and forgotten more than one spoken language, love math, and am currently splitting my time between family, work, and my pet projects. I am an inventor; I pick up whatever tools I need to do whatever I need to do, when I need to do it, and I love to create.
 
 I work in a cloud based environment and am comfortable adapting to novel environments with little effort.
 
@@ -16,21 +14,25 @@ I’ve built my own computers, I run my own homelab, and I’m pretty comfortabl
 Over the years I’ve worked with programming languages ranging from base C / Basic to C++ / Java, Python, front-end web stack, and a few more things.
 I’m ‘conversationally fluent’ with the required tool stack to extract meaning from raw information beginning with fundamentals of computer science, a strong understanding of computer infrastructure, a robust backlog of experience in various software languages and environment, and daily work with the tools required to interact with, shape, and leverage structured and unstructured information to solve problems.
 
+I am comfortable moving from ideation to implementation and am comfortable designing, implementing, and validating the algorithms I develop.
+
 I am a mentor and leader both at, and outside, of work.
+
+My interests (obsession) revolve around integrating human and machine learners into unifying frameworks in order to optimize the future with explicit guarantees.
 
 ## Work Experience
 
-### State Farm: Data Scientist (Late 2019 to Now)
+### State Farm: Senior Data Scientist (Late 2019 to Now)
 
 I lead and guide complex and intertwined work efforts across a portfolio of projects which include supervised, unsupervised, and reinforcement learning models, in support of various business processes in a highly dynamic environment. I also design and implement custom algorithms and solutions to test hypotheses and solve business problems.
 
-As a technical innovator and problem solver I’ve implemented a software stack and CI/CD pipeline in support of the design and implementation of an ML Ops pipeline to automate current and future business problem solutions.
+As a technical innovator and problem solver I’ve implemented a software stack and CI/CD pipeline in support of the design and implementation of an ML Ops pipeline and specialized data structure in order to automate current and future business problem solutions.
 
-As a technical leader and mentor I emphasize and have implemented a framework and mindset of test-driven development in support both typical software solutions and model development activities.
+As a technical leader and mentor I emphasize and have implemented a framework and mindset of test-driven development in support of both typical software solutions and algorithmic development activities.
 
-As a technical expert I’ve engineered custom solutions to solve problems and improve existing processes; my technical development for a particular family of deterministic models reduced the model data complexity at runtime from exponential to logarithmic in input.
+As a technical expert I’ve engineered custom solutions to solve problems and improve existing processes; my technical development for a particular family of deterministic models reduced the model data complexity at runtime from exponential to logarithmic in input, dropping runtime and integrating with automation.
 
-Working at State Farm I’ve gained valuable experience and knowledge into how to tie together different components of a business to solve problems effectively. This has given me greater understanding into how the modeling and business components of a large organization could be viewed as an feedback driven automated system to cost-effectively optimize business decisions
+Working at State Farm I’ve gained valuable experience and knowledge into how to tie together different components of a business to solve problems effectively. This has given me greater understanding into how the modeling and business components of a large organization could be viewed as an feedback driven automated system to cost-effectively optimize business decisions within a unified framework.
 
 ### Army Futures Command: The Research and Analysis Center (Late 2016 to Late 2019)
 
@@ -65,3 +67,4 @@ This environment is being spun up to support my planned experimentation explorin
 * Meta-learning
 * Cognition
 * Artificial Memory
+* ProcessOps (People make these words up all the time, why can't I?)
